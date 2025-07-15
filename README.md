@@ -16,3 +16,6 @@ The project utilizes:
 - **Optimization of false positives (FP) and false negatives (FN)** in the segmentation results.
 
 The **Results** contain the artifacts of potential False Positives and potential False Negative segemntation detected using the proposed optimization. The results are also compared to that of Gaussian and Poisson noises qualitatively and quantitatively.
+
+## License
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
