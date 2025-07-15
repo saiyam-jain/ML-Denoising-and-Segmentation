@@ -1,5 +1,7 @@
 # Adversarial attacks for machine learning denoisers and how to resist them
 
+[![DOI](https://zenodo.org/badge/852722039.svg)](https://doi.org/10.5281/zenodo.15901527)
+
 This repository implements a deep learning approach for **denoising and enhancing cell segmentation of microscopic images**. The project focuses on using a StarDist-based cell segmentation model, incorporating polynomial denoising technique, and leveraging optimization algorithms to improve segmentation results on noisy microscopic images. 
 
 This work is part of a research paper published at SPIE (https://doi.org/10.1117/12.2632954).
